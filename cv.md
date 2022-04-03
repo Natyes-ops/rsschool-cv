@@ -52,3 +52,25 @@ function getParticipants(handshakes) {
     return people
 }
 ```
+
+## Experience
+
+Web development studio - Medialime | (August 2020 - March 2021)
+[Freelancer](https://kwork.ru/user/vilamo) | (March 2021 - 2022)
+
+Link to [my portfolio](https://natyes-ops.github.io/vilamo/)
+
+## Education
+
+- Gomel State Polytechnic College (2018-2021)
+  - Programming of microcontrollers
+
+- Gomel State University Francisk Skorina (2021 - 2025)
+
+- Courses on Udemy (2020 - 2022):
+  - [x] [WEB-разработчик (2020)](https://www.udemy.com/course/webdeveloper/)
+  - [ ] [Полный курс по JavaScript + React - с нуля до результата (2022)](https://www.udemy.com/course/javascript_full/)
+
+## English
+
+A1 - A2 ([EFSET](https://www.efset.org/))
