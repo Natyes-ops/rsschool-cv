@@ -20,3 +20,35 @@ Beginning in lectures, I got acquainted with frontend technologies (HTML5, CSS3,
 During my studies, I managed to work in a web studio (you can see the work in the portfolio), where I studied Wordpress and Opencart in more detail. Now I continue to study various technologies on the Internet.
 
 "Two years have passed, my skills have only improved, and I have 2 of my projects developed in a web studio, and more than 10 freelancing projects that you can see in my portfolio.
+
+## Skills
+
+- **HTML:**
+  - BEM
+- **CSS:**
+  - Sass
+  - Less
+- **JavaScript:**
+  - jQuery
+  - Gulp
+- **CMS:**
+  - WordPress
+  - OpenCart
+- **Graphics:**
+  - Figma
+  - PhotoShop
+  - LightRoom
+
+## Code example
+
+```javascript
+function getParticipants(handshakes) {
+    let people = 1,
+        hand = 0;
+    while (hand < handshakes) {
+            people++;
+            hand +=  people - 1;
+    } 
+    return people
+}
+```
