@@ -1,0 +1,57 @@
+body {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    box-shadow: -2px 3px 49px 0px rgba(81,89,86,0.75);
+    -webkit-box-shadow: -2px 3px 49px 0px rgba(81,89,86,0.75);
+    -moz-box-shadow: -2px 3px 49px 0px rgba(81,89,86,0.75);
+}
+a {
+    color: #000;
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+header {
+    width: 100%;
+    background: #fff;
+    margin-bottom: 20px;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links a {
+    padding: 20px;
+}
+.ms {
+    display: flex;
+}
+.ms-contact__list-item span{
+font-weight: 700;
+}
+main {
+    padding: 20px;
+}
+.title {
+    font-size: 32px;
+    font-weight: 500;
+}
+.skills-content ul{
+    font-weight: 700;
+}
+.skills-content ul li{
+    font-weight: 500;
+    margin-left: 20px;
+    padding: 5px;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    text-align: right;
+}
