@@ -1,1 +1,1 @@
-# rsschool-cv
+https://natyes-ops.github.io/rsschool-cv/cv
